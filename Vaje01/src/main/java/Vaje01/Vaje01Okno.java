@@ -136,7 +136,7 @@ public class Vaje01Okno extends javax.swing.JFrame {
                                 .addComponent(mRBOdstraniPrvega)
                                 .addGap(18, 18, 18)
                                 .addComponent(mRBOdstraniIzbranega)
-                                .addGap(0, 85, Short.MAX_VALUE))
+                                .addGap(0, 36, Short.MAX_VALUE))
                             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                                 .addGap(0, 0, Short.MAX_VALUE)
                                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
